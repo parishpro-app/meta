@@ -35,9 +35,9 @@ We are currently in the pre-development planning phase. No code is being
 written yet. The following planning documents must be completed before
 development begins:
 
-- [ ] Research and select open source license
-- [ ] Write Project Charter
-- [ ] Write Use Case Document
+- [x] Research and select open source license
+- [x] Write Project Charter
+- [x] Write Use Case Document
 - [ ] Write User Stories Backlog
 - [ ] Write System Architecture Document
 - [ ] Write Database Schema and Data Dictionary
